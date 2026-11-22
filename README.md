@@ -35,7 +35,7 @@ I care about the design side as much as the code, and I love making things peopl
 
 **🚧 What I'm building**
 
-- 🎵 **[Svara](https://github.com/Hiroyki/Svara)**: an ad-light music player for the YouTube Music catalog, on web, Windows and Android
+- 🎵 **[Svara](https://github.com/Hiroyki/Svara)**: an ad-free desktop music player for the YouTube Music catalogue, on Windows and macOS
 - 🏝️ **[Nusa](https://github.com/Hiroyki/nusa)**: a Dynamic Island for MacBook, Windows and Linux (fun fact: *nusa* means "island" in Indonesian)
 - 🐾 **Pawdrop**: send files to devices nearby, with installers for Windows, macOS and Linux
 - 🍅 **Pomodoro Timer**: a lo-fi focus timer with a pixel-art room to work in
@@ -74,7 +74,7 @@ I care about the design side as much as the code, and I love making things peopl
 </picture>
 
 <p align="center">
-  <a href="https://github.com/Hiroyki/Svara"><img src="assets/projects/svara.svg?v=3" alt="Svara: open the repo" /></a>
+  <a href="https://github.com/Hiroyki/Svara"><img src="assets/projects/svara.svg?v=4" alt="Svara: open the repo" /></a>
   <a href="https://github.com/Hiroyki/nusa"><img src="assets/projects/nusa.svg?v=4" alt="Nusa: open the repo" /></a>
   <a href="https://github.com/Hiroyki?tab=repositories"><img src="assets/projects/pawdrop.svg?v=3" alt="Pawdrop (private)" /></a>
   <a href="https://github.com/Hiroyki?tab=repositories"><img src="assets/projects/pomodoro.svg?v=3" alt="Pomodoro Timer (private)" /></a>
