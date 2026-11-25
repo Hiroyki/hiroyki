@@ -59,8 +59,8 @@ I care about the design side as much as the code, and I love making things peopl
 - 🤝 Open to collabs, especially on open source and developer tools
 
 <picture>
-  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/neofetch.svg?v=5" />
-  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/neofetch.svg?v=5" width="100%" alt="neofetch: hiroyuki@jakarta" />
+  <source media="(max-width: 768px)" srcset="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/m/neofetch.svg?v=6" />
+  <img src="https://raw.githubusercontent.com/Hiroyki/hiroyki/main/assets/neofetch.svg?v=6" width="100%" alt="neofetch: hiroyuki@jakarta" />
 </picture>
 
 > *Stay curious, keep exploring, and never stop building.* 🚀
